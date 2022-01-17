@@ -1,5 +1,5 @@
 # LibreriaNexos  Backend De la prueba
-fue desarrollada en visual studio 2019 y Sql server en su version 2019
+###fue desarrollada en visual studio 2019 y Sql server en su version 2019
 .net core 
 se realizo migracion desde la base de datos hacia la solucion para crear los modelos de las entidades
 Scaffold-DbContext "Server=LAPTOP-9H09STR1\MSSQLSERVER_HANS;Database=BDLibreriaNexos;Integrated Security= true" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data
