@@ -219,7 +219,7 @@ namespace LibreriaNexosAPI.Controllers
             return NoContent();
         }
 
-        [HttpGet("find/{find}")]
+        [HttpGet("filtro/{find}")]
         public async Task<ActionResult<LibrosResponseDto>> GetLibroByNombres(string find)
         {
             
